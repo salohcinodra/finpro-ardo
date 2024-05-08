@@ -3,4 +3,4 @@ pandas==2.2.1
 streamlit
 pickle
 pip==24.0
-scikit-learn
+scikit-learn==1.4.1
