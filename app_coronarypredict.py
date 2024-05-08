@@ -1,6 +1,7 @@
 import pickle
 import numpy as np 
 import streamlit as st
+import sklearn
 
 # load save model
 model = pickle.load(open('coronaryheart_disease_final.sav', 'rb'))
